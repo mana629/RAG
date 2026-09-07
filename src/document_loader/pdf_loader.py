@@ -23,7 +23,7 @@ def main() -> None:
 
     print_separator()
 
-    print(f"Do page content:\n{first_page.page_content}")
+    print(f"Document page content:\n{first_page.page_content}")
 
 
 if __name__ == "__main__":
